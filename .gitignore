@@ -1,0 +1,19 @@
+# Build output
+build/
+
+# Test binary
+tests/test_aqi
+
+# Editor / IDE artifacts
+.vscode/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# STM32CubeIDE project files (if used alongside bare Makefile)
+.cproject
+.project
+.settings/
